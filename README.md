@@ -1,8 +1,8 @@
 ### Hi there 👋, Amna Atiq Here.  
 
 
-- 👾Student at Dallas College
-- 👨‍💻Software Engineering major
+- 👾Student at University of Arkansas 
+- 👨‍💻Computer Science major
 - 💬 Ask me about how to get started with development.
 - 📫 How to reach me: amna.atiq76@gmail.com 
                       
